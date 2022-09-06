@@ -1,4 +1,4 @@
-##[rsschool-cv](https://mukhlisarsschool.github.io/rsschool-cv/)
+(https://mukhlisarsschool.github.io/rsschool-cv/)
 # Mukhlisa Khusanboyeva
 ## JS Developer
 
