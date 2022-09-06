@@ -1,4 +1,4 @@
-(https://mukhlisarsschool.github.io/rsschool-cv/)
+
 # Mukhlisa Khusanboyeva
 ## JS Developer
 
